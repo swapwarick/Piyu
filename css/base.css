@@ -6,13 +6,13 @@
 
 :root {
 	font-size: 18px;
-	--color-text: #fff;
+	--color-text: #ffffff;
 	--color-bg: #131417;
-	--color-link: #aaa;
-	--color-link-hover: #fff;
-	--color-label: #adadad;
-	--color-text-alt: #575757;
-	--color-caption: #fff;
+	--color-link: #ffffff;
+	--color-link-hover: #ffffff;
+	--color-label: #ffffff;
+	--color-text-alt: #ffffff;
+	--color-caption: #ffffff;
 }
 
 body {
